@@ -1,0 +1,21 @@
+<schemalist>
+    <schema id="org.gnome.rhythmbox.plugins.rhythmsub"
+            path="/org/gnome/rhythmbox/plugins/rhythmsub/">
+        <key name="address" type="s">
+            <default>''</default>
+            <summary>URL for Subsonic server</summary>
+            <description>URL for Subsonic server</description>
+        </key>
+        <key name="username" type="s">
+            <default>''</default>
+            <summary>Username</summary>
+            <description>Username</description>
+        </key>
+        <key name="password" type="s">
+          <default>''</default>
+          <summary>Password</summary>
+          <description>Password</description>
+        </key>
+        <child name="source" schema="org.gnome.rhythmbox.source"/>
+    </schema>
+</schemalist>

@@ -1,0 +1,9 @@
+[Plugin]
+Loader=python3
+IAge=2
+Module=rhythmsub
+Name=RhythmSub
+Description=Provides support for connecting to Subsonic media servers
+Authors=Luke Carrier <luke@carrier.im>
+Copyright=Copyright © 2013 Luke Carrier
+Website=https://github.com/LukeCarrier/rhythmsub
