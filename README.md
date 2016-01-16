@@ -3,6 +3,14 @@ Rhythmsub
 
 Subsonic support has finally come to Rhythmbox.
 
+Unmaintained
+------------
+
+Due to a bug in ```gvfs-http```, I was unable to complete this plugin. Since
+I've now moved to a different media setup, I'm unlikely to revisit this code.
+
+I'm sorry :disappointed:
+
 Installation
 ------------
 
